@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:21.065Z",
+  "generated_at": "2026-09-28T06:18:23.296Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -143,6 +143,32 @@
       "last_pushed_at": "2025-11-09T12:13:35.615Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2025-11-13T03:25:08.033Z",
+      "last_pushed_at": "2025-11-13T03:25:08.033Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-11-13T04:37:12.931Z",
+      "last_pushed_at": "2025-11-13T04:37:12.931Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
