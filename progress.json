@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:23.296Z",
+  "generated_at": "2026-09-28T06:18:25.123Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -169,6 +169,71 @@
       "last_pushed_at": "2025-11-13T04:37:12.931Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2025-12-09T03:49:36.709Z",
+      "last_pushed_at": "2025-12-09T03:49:36.709Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2025-12-09T04:01:12.165Z",
+      "last_pushed_at": "2025-12-09T04:01:12.165Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2025-12-09T06:30:06.262Z",
+      "last_pushed_at": "2025-12-09T06:30:06.262Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-12-09T06:41:24.758Z",
+      "last_pushed_at": "2025-12-09T06:41:24.758Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2025-12-09T09:34:30.548Z",
+      "last_pushed_at": "2025-12-09T09:34:30.548Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
