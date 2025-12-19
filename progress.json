@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:25.123Z",
+  "generated_at": "2026-09-28T06:18:26.986Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -234,6 +234,110 @@
       "last_pushed_at": "2025-12-09T09:34:30.548Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2025-12-19T02:12:22.934Z",
+      "last_pushed_at": "2025-12-19T02:12:22.934Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-12-19T02:31:51.160Z",
+      "last_pushed_at": "2025-12-19T02:31:51.160Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2025-12-19T02:34:29.174Z",
+      "last_pushed_at": "2025-12-19T02:34:29.174Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2025-12-19T03:00:57.518Z",
+      "last_pushed_at": "2025-12-19T03:00:57.518Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2025-12-19T03:24:34.865Z",
+      "last_pushed_at": "2025-12-19T03:24:34.865Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2025-12-19T03:32:47.245Z",
+      "last_pushed_at": "2025-12-19T03:32:47.245Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2025-12-19T04:01:42.557Z",
+      "last_pushed_at": "2025-12-19T04:01:42.557Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2025-12-19T07:28:31.038Z",
+      "last_pushed_at": "2025-12-19T07:28:31.038Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
