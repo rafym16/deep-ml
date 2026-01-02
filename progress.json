@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:26.986Z",
+  "generated_at": "2026-09-28T06:18:29.436Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -338,6 +338,45 @@
       "last_pushed_at": "2025-12-19T07:28:31.038Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-01-02T01:37:04.183Z",
+      "last_pushed_at": "2026-01-02T01:37:04.183Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:212": {
+      "kind": "problem",
+      "id": "212",
+      "title": "Confidence Interval for Population Mean",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/212",
+      "path": "problems/0212-confidence-interval-for-population-mean",
+      "first_solved_at": "2026-01-02T02:31:35.715Z",
+      "last_pushed_at": "2026-01-02T02:31:35.715Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-01-02T02:52:36.350Z",
+      "last_pushed_at": "2026-01-02T02:52:36.350Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
