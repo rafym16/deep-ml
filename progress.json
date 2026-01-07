@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:31.557Z",
+  "generated_at": "2026-09-28T06:18:33.442Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -390,6 +390,45 @@
       "last_pushed_at": "2026-01-04T11:45:25.419Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-01-07T03:50:25.591Z",
+      "last_pushed_at": "2026-01-07T03:50:25.591Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-01-07T06:34:19.958Z",
+      "last_pushed_at": "2026-01-07T06:34:19.958Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-01-07T06:58:51.059Z",
+      "last_pushed_at": "2026-01-07T06:58:51.059Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }

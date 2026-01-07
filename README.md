@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 30 problems · 0 labs · 0 math
+**33** solved · 33 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,7 +12,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-01-07 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-11-09 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-01-07 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2025-12-19 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-11-09 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-11-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
@@ -24,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-12-19 | [solution](problems/0083-dot-product-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2025-12-19 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-12-09 | [solution](problems/0016-feature-scaling-implementation) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-01-07 | [solution](problems/0046-implement-precision-metric) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-12-09 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-11-13 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-11-06 | [solution](problems/0001-matrix-vector-dot-product) |
