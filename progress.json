@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:33.442Z",
+  "generated_at": "2026-09-28T06:18:35.320Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -429,6 +429,45 @@
       "last_pushed_at": "2026-01-07T06:58:51.059Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-01-09T01:49:21.526Z",
+      "last_pushed_at": "2026-01-09T01:49:21.526Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:281": {
+      "kind": "problem",
+      "id": "281",
+      "title": "Implement Polynomial Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/281",
+      "path": "problems/0281-implement-polynomial-kernel-function",
+      "first_solved_at": "2026-01-09T02:05:24.761Z",
+      "last_pushed_at": "2026-01-09T02:05:24.761Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:280": {
+      "kind": "problem",
+      "id": "280",
+      "title": "Implement RBF (Gaussian) Kernel Function",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/280",
+      "path": "problems/0280-implement-rbf-gaussian-kernel-function",
+      "first_solved_at": "2026-01-09T02:30:27.240Z",
+      "last_pushed_at": "2026-01-09T02:30:27.240Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }

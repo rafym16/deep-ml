@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 33 problems · 0 labs · 0 math
+**36** solved · 36 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,7 +26,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-12-19 | [solution](problems/0083-dot-product-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2025-12-19 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-12-09 | [solution](problems/0016-feature-scaling-implementation) |
+| [Implement Polynomial Kernel Function](https://www.deep-ml.com/problems/281) | easy | 2026-01-09 | [solution](problems/0281-implement-polynomial-kernel-function) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-01-07 | [solution](problems/0046-implement-precision-metric) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-01-09 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-12-09 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-11-13 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-11-06 | [solution](problems/0001-matrix-vector-dot-product) |
@@ -41,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-12-19 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-11-09 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-01-02 | [solution](problems/0212-confidence-interval-for-population-mean) |
+| [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-01-09 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-01-04 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-11-09 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-11-09 | [solution](problems/0007-matrix-transformation) |
