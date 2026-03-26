@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:40.667Z",
+  "generated_at": "2026-09-28T06:18:42.525Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -507,6 +507,58 @@
       "last_pushed_at": "2026-03-05T07:31:44.884Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:159": {
+      "kind": "problem",
+      "id": "159",
+      "title": "Incremental Mean for Online Reward Estimation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/159",
+      "path": "problems/0159-incremental-mean-for-online-reward-estimation",
+      "first_solved_at": "2026-03-26T02:34:11.626Z",
+      "last_pushed_at": "2026-03-26T02:34:11.626Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:161": {
+      "kind": "problem",
+      "id": "161",
+      "title": "Exponential Weighted Average of Rewards",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/161",
+      "path": "problems/0161-exponential-weighted-average-of-rewards",
+      "first_solved_at": "2026-03-26T03:37:50.054Z",
+      "last_pushed_at": "2026-03-26T03:37:50.054Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2026-03-26T07:55:03.336Z",
+      "last_pushed_at": "2026-03-26T07:55:03.336Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:167": {
+      "kind": "problem",
+      "id": "167",
+      "title": "Calculate the Discounted Return for a Given Trajectory",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/167",
+      "path": "problems/0167-calculate-the-discounted-return-for-a-given-trajectory",
+      "first_solved_at": "2026-03-26T08:18:08.857Z",
+      "last_pushed_at": "2026-03-26T08:18:08.857Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
