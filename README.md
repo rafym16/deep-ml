@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 45 problems · 0 labs · 0 math
+**46** solved · 46 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-03-27 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-12-19 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-11-09 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-04-10 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-01-02 | [solution](problems/0212-confidence-interval-for-population-mean) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-04-08 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-01-10 | [solution](problems/0018-implement-k-fold-cross-validation) |
