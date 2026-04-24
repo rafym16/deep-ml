@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 46 problems · 0 labs · 0 math
+**47** solved · 47 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-04-10 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-01-02 | [solution](problems/0212-confidence-interval-for-population-mean) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-04-08 | [solution](problems/0142-gridworld-policy-evaluation) |
+| [Implement Isolation Forest for Anomaly Detection](https://www.deep-ml.com/problems/367) | medium | 2026-04-24 | [solution](problems/0367-implement-isolation-forest-for-anomaly-detection) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-01-10 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-01-09 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-01-04 | [solution](problems/0017-k-means-clustering) |
