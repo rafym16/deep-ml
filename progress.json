@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:49.833Z",
+  "generated_at": "2026-09-28T06:18:51.726Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -611,6 +611,32 @@
       "last_pushed_at": "2026-04-24T03:34:18.198Z",
       "language": "python",
       "lines": 82
+    },
+    "problem:68": {
+      "kind": "problem",
+      "id": "68",
+      "title": "Find the column space of a matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/68",
+      "path": "problems/0068-find-the-column-space-of-a-matrix",
+      "first_solved_at": "2026-05-10T08:06:46.667Z",
+      "last_pushed_at": "2026-05-10T08:06:46.667Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:282": {
+      "kind": "problem",
+      "id": "282",
+      "title": "Calculate SVM Margin Width",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/282",
+      "path": "problems/0282-calculate-svm-margin-width",
+      "first_solved_at": "2026-05-10T09:34:51.269Z",
+      "last_pushed_at": "2026-05-10T09:34:51.269Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }

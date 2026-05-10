@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 47 problems · 0 labs · 0 math
+**49** solved · 49 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2025-12-19 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-11-09 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-11-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-05-10 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-03-26 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-03-26 | [solution](problems/0165-compute-discounted-return) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2025-12-19 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
@@ -49,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-11-09 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-04-10 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-01-02 | [solution](problems/0212-confidence-interval-for-population-mean) |
+| [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-05-10 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-04-08 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Implement Isolation Forest for Anomaly Detection](https://www.deep-ml.com/problems/367) | medium | 2026-04-24 | [solution](problems/0367-implement-isolation-forest-for-anomaly-detection) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-01-10 | [solution](problems/0018-implement-k-fold-cross-validation) |
