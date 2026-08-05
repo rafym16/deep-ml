@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:55.343Z",
+  "generated_at": "2026-09-28T06:18:57.109Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -663,6 +663,32 @@
       "last_pushed_at": "2026-07-28T08:03:45.394Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-08-05T04:05:31.527Z",
+      "last_pushed_at": "2026-08-05T04:05:31.527Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:325": {
+      "kind": "problem",
+      "id": "325",
+      "title": "Exact Match Score with Normalization",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/325",
+      "path": "problems/0325-exact-match-score-with-normalization",
+      "first_solved_at": "2026-08-05T04:56:28.616Z",
+      "last_pushed_at": "2026-08-05T04:56:28.616Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
