@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:57.109Z",
+  "generated_at": "2026-09-28T06:19:30.066Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -689,6 +689,67 @@
       "last_pushed_at": "2026-08-05T04:56:28.616Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:119": {
+      "kind": "problem",
+      "id": "119",
+      "title": "Solve System of Linear Equations Using Cramer's Rule",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/119",
+      "path": "problems/0119-solve-system-of-linear-equations-using-cramer-s-rule",
+      "first_solved_at": "2026-08-10T10:14:34.789Z",
+      "last_pushed_at": "2026-08-10T10:14:34.789Z",
+      "language": "python",
+      "lines": 21
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-08-10T10:17:05.859Z",
+      "last_pushed_at": "2026-08-10T10:17:05.859Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-08-10T10:19:50.569Z",
+      "last_pushed_at": "2026-08-10T10:19:50.569Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-08-10T10:25:09.116Z",
+      "last_pushed_at": "2026-08-10T10:25:09.116Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-08-10T14:28:16.788Z",
+      "last_pushed_at": "2026-08-10T14:28:16.788Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
