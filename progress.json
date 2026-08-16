@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:19:30.066Z",
+  "generated_at": "2026-09-28T06:19:31.881Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -750,6 +750,19 @@
       "last_pushed_at": "2026-08-10T14:28:16.788Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:237": {
+      "kind": "problem",
+      "id": "237",
+      "title": "Convert RGB Image to Grayscale",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/237",
+      "path": "problems/0237-convert-rgb-image-to-grayscale",
+      "first_solved_at": "2026-08-16T10:38:51.925Z",
+      "last_pushed_at": "2026-08-16T10:38:51.925Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
