@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:19:31.881Z",
+  "generated_at": "2026-09-28T06:19:33.577Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -763,6 +763,97 @@
       "last_pushed_at": "2026-08-16T10:38:51.925Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:757": {
+      "kind": "problem",
+      "id": "757",
+      "title": "Fill-in-the-Middle Document Transformation",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/757",
+      "path": "problems/0757-fill-in-the-middle-document-transformation",
+      "first_solved_at": "2026-08-18T09:30:23.760Z",
+      "last_pushed_at": "2026-08-18T09:30:23.760Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:761": {
+      "kind": "problem",
+      "id": "761",
+      "title": "Reasoning Effort System Prompt Injection",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/761",
+      "path": "problems/0761-reasoning-effort-system-prompt-injection",
+      "first_solved_at": "2026-08-18T10:04:30.051Z",
+      "last_pushed_at": "2026-08-18T10:04:30.051Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:772": {
+      "kind": "problem",
+      "id": "772",
+      "title": "Duplicated N-gram Coverage Ratio",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/772",
+      "path": "problems/0772-duplicated-n-gram-coverage-ratio",
+      "first_solved_at": "2026-08-18T10:22:04.840Z",
+      "last_pushed_at": "2026-08-18T10:22:04.840Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:774": {
+      "kind": "problem",
+      "id": "774",
+      "title": "Prompt Complexity Scoring via Intention Tag Count",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/774",
+      "path": "problems/0774-prompt-complexity-scoring-via-intention-tag-count",
+      "first_solved_at": "2026-08-18T11:00:19.594Z",
+      "last_pushed_at": "2026-08-18T11:00:19.594Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:771": {
+      "kind": "problem",
+      "id": "771",
+      "title": "Token Distribution KL Divergence Filter",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/771",
+      "path": "problems/0771-token-distribution-kl-divergence-filter",
+      "first_solved_at": "2026-08-18T11:12:17.034Z",
+      "last_pushed_at": "2026-08-18T11:12:17.034Z",
+      "language": "python",
+      "lines": 79
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-08-18T11:43:13.882Z",
+      "last_pushed_at": "2026-08-18T11:43:13.882Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-08-18T11:57:33.136Z",
+      "last_pushed_at": "2026-08-18T11:57:33.136Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
