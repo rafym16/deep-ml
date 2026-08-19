@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 64 problems · 0 labs · 2 math
+**67** solved · 65 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-11-09 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-11-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-08-05 | [solution](problems/0320-calculate-perplexity-for-language-models) |
+| [Calculate SLA Compliance Metrics for Model Service](https://www.deep-ml.com/problems/250) | easy | 2026-08-19 | [solution](problems/0250-calculate-sla-compliance-metrics-for-model-service) |
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-05-10 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-03-26 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-07-22 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
