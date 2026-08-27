@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:19:36.960Z",
+  "generated_at": "2026-09-28T06:19:38.549Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -880,6 +880,110 @@
       "last_pushed_at": "2026-08-24T11:04:45.051Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-08-27T12:23:49.212Z",
+      "last_pushed_at": "2026-08-27T12:23:49.212Z",
+      "language": "sql",
+      "lines": 2
+    },
+    "problem:1102": {
+      "kind": "problem",
+      "id": "1102",
+      "title": "Select specific columns",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1102",
+      "path": "problems/1102-select-specific-columns",
+      "first_solved_at": "2026-08-27T12:24:25.893Z",
+      "last_pushed_at": "2026-08-27T12:24:25.893Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1103": {
+      "kind": "problem",
+      "id": "1103",
+      "title": "Filter rows with WHERE",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1103",
+      "path": "problems/1103-filter-rows-with-where",
+      "first_solved_at": "2026-08-27T12:25:09.110Z",
+      "last_pushed_at": "2026-08-27T12:25:09.110Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1104": {
+      "kind": "problem",
+      "id": "1104",
+      "title": "Sort results with ORDER BY",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1104",
+      "path": "problems/1104-sort-results-with-order-by",
+      "first_solved_at": "2026-08-27T12:26:09.362Z",
+      "last_pushed_at": "2026-08-27T12:26:09.362Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1105": {
+      "kind": "problem",
+      "id": "1105",
+      "title": "Remove duplicates with DISTINCT",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1105",
+      "path": "problems/1105-remove-duplicates-with-distinct",
+      "first_solved_at": "2026-08-27T12:28:02.867Z",
+      "last_pushed_at": "2026-08-27T12:28:02.867Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1106": {
+      "kind": "problem",
+      "id": "1106",
+      "title": "Top N with LIMIT",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1106",
+      "path": "problems/1106-top-n-with-limit",
+      "first_solved_at": "2026-08-27T12:29:26.135Z",
+      "last_pushed_at": "2026-08-27T12:29:26.135Z",
+      "language": "sql",
+      "lines": 6
+    },
+    "problem:1107": {
+      "kind": "problem",
+      "id": "1107",
+      "title": "Count rows per group",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1107",
+      "path": "problems/1107-count-rows-per-group",
+      "first_solved_at": "2026-08-27T12:30:29.906Z",
+      "last_pushed_at": "2026-08-27T12:30:29.906Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1108": {
+      "kind": "problem",
+      "id": "1108",
+      "title": "Average per group",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1108",
+      "path": "problems/1108-average-per-group",
+      "first_solved_at": "2026-08-27T12:31:12.152Z",
+      "last_pushed_at": "2026-08-27T12:31:12.152Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**68** solved · 66 problems · 0 labs · 2 math
+**76** solved · 74 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-08-27 | [solution](problems/1108-average-per-group) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-01-07 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-11-09 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-01-07 | [solution](problems/0036-calculate-accuracy-score) |
@@ -27,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2025-12-19 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-08-16 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-12-09 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-08-27 | [solution](problems/1107-count-rows-per-group) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-28 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2025-12-09 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-12-19 | [solution](problems/0078-descriptive-statistics-calculator) |
@@ -37,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-03-26 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-12-09 | [solution](problems/0016-feature-scaling-implementation) |
 | [Fill-in-the-Middle Document Transformation](https://www.deep-ml.com/problems/757) | easy | 2026-08-18 | [solution](problems/0757-fill-in-the-middle-document-transformation) |
+| [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-08-27 | [solution](problems/1103-filter-rows-with-where) |
 | [Implement Polynomial Kernel Function](https://www.deep-ml.com/problems/281) | easy | 2026-01-09 | [solution](problems/0281-implement-polynomial-kernel-function) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-01-07 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-07-28 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
@@ -52,9 +55,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Prompt Complexity Scoring via Intention Tag Count](https://www.deep-ml.com/problems/774) | easy | 2026-08-18 | [solution](problems/0774-prompt-complexity-scoring-via-intention-tag-count) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-01-02 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reasoning Effort System Prompt Injection](https://www.deep-ml.com/problems/761) | easy | 2026-08-18 | [solution](problems/0761-reasoning-effort-system-prompt-injection) |
+| [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-08-27 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-11-06 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-11-06 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-08-27 | [solution](problems/1101-select-all-rows) |
+| [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-08-27 | [solution](problems/1102-select-specific-columns) |
+| [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-08-27 | [solution](problems/1104-sort-results-with-order-by) |
 | [Token Distribution KL Divergence Filter](https://www.deep-ml.com/problems/771) | easy | 2026-08-18 | [solution](problems/0771-token-distribution-kl-divergence-filter) |
+| [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-08-27 | [solution](problems/1106-top-n-with-limit) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2025-12-09 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-11-06 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-03-27 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
