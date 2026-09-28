@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:19:41.937Z",
+  "generated_at": "2026-09-28T06:19:43.604Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -712,7 +712,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-08-10T10:17:05.859Z",
-      "last_pushed_at": "2026-08-10T10:17:05.859Z"
+      "last_pushed_at": "2026-09-28T06:19:43.603Z"
     },
     "math:8": {
       "kind": "math",
@@ -723,7 +723,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-08-10T10:19:50.569Z",
-      "last_pushed_at": "2026-08-10T10:19:50.569Z"
+      "last_pushed_at": "2026-09-28T06:19:43.603Z"
     },
     "problem:121": {
       "kind": "problem",
