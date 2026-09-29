@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 77 problems · 0 labs · 2 math
+**80** solved · 78 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -86,6 +86,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-11-09 | [solution](problems/0007-matrix-transformation) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-09-13 | [solution](problems/0204-mutual-information) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-03-05 | [solution](problems/0080-normal-distribution-pdf-calculator) |
+| [Poisson Deviance and Overdispersion](https://www.deep-ml.com/problems/1367) | medium | 2026-09-29 | [solution](problems/1367-poisson-deviance-and-overdispersion) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-01-18 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-11-13 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-08-10 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
