@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**82** solved · 78 problems · 0 labs · 4 math
+**83** solved · 79 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-01-07 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-07-28 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-03-26 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
+| [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-30 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-01-09 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-12-09 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-11-13 | [solution](problems/0014-linear-regression-using-normal-equation) |
