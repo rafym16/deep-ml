@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:50:48.868Z",
+  "generated_at": "2026-09-30T08:55:25.987Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -1106,6 +1106,17 @@
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-09-30T08:50:48.098Z",
       "last_pushed_at": "2026-09-30T08:50:48.098Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-30T08:55:25.395Z",
+      "last_pushed_at": "2026-09-30T08:55:25.395Z"
     }
   }
 }
