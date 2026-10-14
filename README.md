@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**89** solved · 81 problems · 0 labs · 8 math
+**90** solved · 82 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-08-27 | [solution](problems/1108-average-per-group) |
+| [Balance Dataset via Undersampling](https://www.deep-ml.com/problems/1057) | easy | 2026-10-14 | [solution](problems/1057-balance-dataset-via-undersampling) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-01-07 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-11-09 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-01-07 | [solution](problems/0036-calculate-accuracy-score) |
